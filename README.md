@@ -16,7 +16,7 @@ I believe in learning continuously and building skills that will be useful in th
 
 ## 📫 Connect With Me
 
-- *LinkedIn:* [Shikhar Yadav](https://www.linkedin.com/in/shikhar-yadav-00185b338/)
-- *Email:shikharyadav005@gmail.com
+- LinkedIn:[Shikhar Yadav](https://www.linkedin.com/in/shikhar-yadav-00185b338/)
+- Email:shikharyadav005@gmail.com
 
 Feel free to reach out if you’d like to discuss programming, open source, or learning resources.
